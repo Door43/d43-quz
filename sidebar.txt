@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[quz:home|Door43 (quz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-quz|d43-quz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-quz/archive/master.zip|d43-quz.zip]]
+
+**Recent Changes**
+{{changes>ns = quz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/quz|Ethnologue data]]
+
